@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aron](https://github.com/ohohoh456) 
+- Place: Bellevue, WA
+- Beginner Coder Student
+- Github [ohohoh456](https://github.com/ohohoh456)
